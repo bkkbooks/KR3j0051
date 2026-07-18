@@ -872,6 +872,7 @@ markers:
   - {type: line-break, offset: 2807, content: '', id: KR3j0051_WYG_008-10a02}
   - {type: indent, offset: 2807, content: 　, id: KR3j0051_krp_008-bkkind141}
   - {type: punctuation, offset: 2815, content: (, id: KR3j0051_krp_008-bkkpn1}
+  - {type: voice, offset: 2815, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 2817, content: /, id: KR3j0051_krp_008-bkkpn2}
   - {type: punctuation, offset: 2817, content: ), id: KR3j0051_krp_008-bkkpn3}
   - {type: 'kr:newline', offset: 2827, content: '
@@ -1225,6 +1226,7 @@ markers:
   - {type: indent, offset: 4011, content: 　, id: KR3j0051_krp_008-bkkind199}
   - {type: substitution, offset: 4012, original: 鎭, replacement: 鎮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19899}}
   - {type: punctuation, offset: 4015, content: (, id: KR3j0051_krp_008-bkkpn4}
+  - {type: voice, offset: 4015, length: 12, name: note, id: n2}
   - {type: punctuation, offset: 4021, content: /, id: KR3j0051_krp_008-bkkpn5}
   - {type: punctuation, offset: 4027, content: ), id: KR3j0051_krp_008-bkkpn6}
   - {type: 'kr:newline', offset: 4037, content: '
@@ -1420,6 +1422,7 @@ markers:
   - {type: line-break, offset: 4657, content: '', id: KR3j0051_WYG_008-15b07}
   - {type: indent, offset: 4657, content: 　, id: KR3j0051_krp_008-bkkind231}
   - {type: punctuation, offset: 4666, content: (, id: KR3j0051_krp_008-bkkpn7}
+  - {type: voice, offset: 4666, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 4668, content: /, id: KR3j0051_krp_008-bkkpn8}
   - {type: punctuation, offset: 4669, content: ), id: KR3j0051_krp_008-bkkpn9}
   - {type: 'kr:newline', offset: 4678, content: '
@@ -1977,4 +1980,4 @@ markers:
 
       ', id: KR3j0051_krp_008-bkkkrnewl377}
   back: []
-hash: sha256:9741ef0314cae235a324d7aec1ada095282373050ee1e266d1f20feb0ae02b58
+hash: sha256:cb27c1aef6897f4d9604f8490e98949c547ffbbd7844cc41a69a3c2975aef25d
